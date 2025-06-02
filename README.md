@@ -1,5 +1,5 @@
 ## Lucas Gava 
-🍀 Brazilian, Data Analyst.
+🍀 Brazilian, Data Analyst and FullStack Dev.
 <br>
 🎓 Systems Analysis and Development student
 <br>
