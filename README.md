@@ -1,10 +1,10 @@
 ## Lucas Gava 
-🍀 Brazilian, Data Analyst and FullStack Dev.
+🍀 Brazilian, Frontend Dev.
 <br>
 🎓 Systems Analysis and Development student
 <br>
-💻 HTML, CSS, JavaScript, Python and SQL
+💻 HTML, CSS, JavaScript and Python
 <br>
 💼 Linkedin: https://www.linkedin.com/in/lucasgava/
 <br>
-🌎 Website: 
+🌎 Website: https://lucasgava.com/
