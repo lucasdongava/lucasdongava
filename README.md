@@ -1,6 +1,4 @@
 ## Lucas Gava 
-🍀 Brazilian, Frontend Dev.
-<br>
 🎓 Systems Analysis and Development student
 <br>
 💻 HTML, CSS, JavaScript and Python
