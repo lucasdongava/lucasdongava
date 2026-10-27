@@ -1,5 +1,5 @@
 ## Lucas Gava 
-🎓 Systems Analysis and Development student
+🎓 Systems Analysis and Development student - Bachelor’s Degree in Graphic Design
 <br>
 💻 HTML, CSS, JavaScript and Python
 <br>
